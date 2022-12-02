@@ -4,7 +4,7 @@ This is a basic Hardhat project showcasing how to create a Soulbound Token using
 
 Tutorial: Video coming soon
 
-Presentation Slids: https://pitch.com/public/0e72b224-f3f4-465e-93c0-3ff03f1fdc86
+Presentation Slids: https://pitch.com/public/2ac4415d-fcf6-4ad2-ac7f-1427483b8ece
 
 This tutorial uses [Hardhat](https://hardhat.org/) as a development environment and Polygon Mumbai testnet as the network.
 
@@ -53,3 +53,6 @@ Additional Tutorials from Steph and Manny:
 https://github.com/oceans404/tutorial-examples/tree/main/on-chain-verification
 https://github.com/codingwithmanny/polygonid-on-chain-verification
 
+
+Starter kit from Steph for using API in a frontend:
+https://github.com/oceans404/generate-frontend-polygon-id-issuer
